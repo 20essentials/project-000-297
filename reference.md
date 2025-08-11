@@ -1,2 +1,0 @@
-- **Reference ⬇️**
-  - [Texture Svgw](https://loading.io/pattern/)
